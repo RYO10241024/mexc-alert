@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "app.py",
+        "use": "@railway/python",
+        "config": {"runtime": "python3.10"}
+      }
+    ]
+  }
+  
